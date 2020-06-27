@@ -7,8 +7,8 @@
 
 var friendArray = [
   {
-    name: "Diana",
-    photo: ,
+    name: "Lena Headey",
+    photo: "https://i.insider.com/5b5b52ffbda1c723008b45aa?width=1300&format=jpeg&auto=webp",
     scores: [
         5,
         1,
@@ -25,4 +25,4 @@ var friendArray = [
 ];
 
 // Note how we export the array. This makes it accessible to other files using require.
-module.exports = tableArray;
+module.exports = friendsArray;
