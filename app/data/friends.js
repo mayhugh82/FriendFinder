@@ -5,7 +5,7 @@
 // But you could have it be an empty array as well.
 // ===============================================================================
 
-var friendArray = [
+var friendsArray = [
   {
     name: "Lena Headey",
     photo: "https://i.insider.com/5b5b52ffbda1c723008b45aa?width=1300&format=jpeg&auto=webp",

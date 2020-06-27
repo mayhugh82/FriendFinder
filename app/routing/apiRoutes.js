@@ -33,13 +33,17 @@ module.exports = function (app) {
     // Note the code here. Our "server" will respond to requests and let users know if they have a table or not.
     // It will do this by sending out the value "true" have a table
     // req.body is available since we're using the body parsing middleware
-    if (tableData.length < 5) {
-      tableData.push(req.body);
-      res.json(true);
-    } else {
-      waitListData.push(req.body);
-      res.json(false);
+    var newPerson = req.body;
+    var newPersonTotalScore = 10;
+    var lowestDifference = 2;
+    var lowestMatch = "lena"
+    for (let i = 0; i < friendsData.length; i++) {
+      const element = friendsData[i];
+      const elementTotalScore = 8;
+      console.log(element);
+      
     }
+    res.send("Hello World");
   });
 
   // ---------------------------------------------------------------------------
