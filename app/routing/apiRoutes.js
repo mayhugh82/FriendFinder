@@ -34,14 +34,18 @@ module.exports = function (app) {
     // It will do this by sending out the value "true" have a table
     // req.body is available since we're using the body parsing middleware
     var newPerson = req.body;
-    var newPersonTotalScore = 10;
-    var lowestDifference = 2;
-    var lowestMatch = "lena"
+
+    //var newPersonTotalScore = 10;
+    //var lowestDifference = 2;
+    //var lowestMatch = "lena"
+
+
     for (let i = 0; i < friendsData.length; i++) {
       const element = friendsData[i];
       const elementTotalScore = 8;
       console.log(element);
       
+      //if (friendsData)
     }
     res.send("Hello World");
   });
