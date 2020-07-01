@@ -4,13 +4,15 @@ This is a compatibility-based "FriendFinder" application -- basically a dating a
 
 You will use Express to handle routing. Make sure you deploy your app to Heroku so other users can fill it out.
 
-## Link to Deployed Versions
+## Links to Deployed Versions
 
 [Github](https://github.com/mayhugh82/FriendFinder)
 
 [Heroku](https://friendfinder-mayhugh82.herokuapp.com/)
 
 ## Technologies Used
+* HTML
+* CSS
 * javaScript
 * API
 * Node js
