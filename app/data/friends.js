@@ -8,19 +8,9 @@
 var friendsArray = [
   {
     name: "Lena Headey",
-    photo: "https://i.insider.com/5b5b52ffbda1c723008b45aa?width=1300&format=jpeg&auto=webp",
-    scores: [
-        5,
-        1,
-        4,
-        4,
-        5,
-        1,
-        2,
-        5,
-        4,
-        1
-    ]
+    photo:
+      "https://images-na.ssl-images-amazon.com/images/I/51L-LHu3k8L._AC_.jpg",
+    scores: [5, 1, 4, 4, 5, 1, 2, 5, 4, 1],
   },
 ];
 
