@@ -7,6 +7,7 @@ You will use Express to handle routing. Make sure you deploy your app to Heroku 
 ## Link to Deployed Versions
 
 [Github](https://github.com/mayhugh82/FriendFinder)
+
 [Heroku](https://friendfinder-mayhugh82.herokuapp.com/)
 
 ## Technologies Used
