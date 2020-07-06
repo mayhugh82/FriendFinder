@@ -15,22 +15,24 @@ var friendsArray = [
   {
     name: "Kit Harrington",
     photo:
-      "https://media1.popsugar-assets.com/files/thumbor/scn94sWpjb-5OC9a_XiWF1QDcXY/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2019/02/14/937/n/1922398/f5c95bef5c65ddf87d6196.24382719_/i/Young-Kit-Harington-Pictures.jpg",
+      "https://i.pinimg.com/236x/6b/57/8e/6b578eca7dcd2e97fe9e98c9ad3d8ddf.jpg",
     scores: [3, 1, 1, 1, 1, 1, 2, 4, 4, 1],
   },
   {
     name: "Emilia Clarke",
-    photo: "https://www.gstatic.com/tv/thumb/persons/613075/613075_v9_bb.jpg",
+    photo: "https://static.tvtropes.org/pmwiki/pub/images/emiliaclarke.jpg",
     scores: [5, 5, 4, 4, 5, 3, 2, 5, 4, 1],
   },
   {
     name: "Peter Dinklage",
-    photo: "https://www.gstatic.com/tv/thumb/persons/299302/299302_v9_bb.jpg",
+    photo:
+      "https://www.emmys.com/sites/default/files/styles/bio_pics_detail/public/Peter-Dinklage-450x600.jpg?itok=tmJQ4yxW",
     scores: [1, 1, 4, 4, 3, 3, 2, 5, 4, 3],
   },
   {
     name: "Maisie Williams",
-    photo: "https://www.gstatic.com/tv/thumb/persons/613078/613078_v9_bb.jpg",
+    photo:
+      "https://i.pinimg.com/236x/07/1b/4b/071b4b4d63da5de289f875c7f5fda85f.jpg",
     scores: [2, 1, 5, 2, 4, 2, 1, 2, 4, 5],
   },
 ];
